@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\SeminarCsharp\task14\bin\Debug\net6.0\task14.exe
+C:\Users\Home\Desktop\SeminarCsharp\task14\bin\Debug\net6.0\task14.deps.json
+C:\Users\Home\Desktop\SeminarCsharp\task14\bin\Debug\net6.0\task14.runtimeconfig.json
+C:\Users\Home\Desktop\SeminarCsharp\task14\bin\Debug\net6.0\task14.dll
+C:\Users\Home\Desktop\SeminarCsharp\task14\bin\Debug\net6.0\task14.pdb
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.AssemblyInfo.cs
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.dll
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\refint\task14.dll
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.pdb
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\task14.genruntimeconfig.cache
+C:\Users\Home\Desktop\SeminarCsharp\task14\obj\Debug\net6.0\ref\task14.dll
