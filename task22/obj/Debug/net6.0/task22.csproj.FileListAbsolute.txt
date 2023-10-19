@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\SeminarCsharp\task22\bin\Debug\net6.0\task22.exe
+C:\Users\Home\Desktop\SeminarCsharp\task22\bin\Debug\net6.0\task22.deps.json
+C:\Users\Home\Desktop\SeminarCsharp\task22\bin\Debug\net6.0\task22.runtimeconfig.json
+C:\Users\Home\Desktop\SeminarCsharp\task22\bin\Debug\net6.0\task22.dll
+C:\Users\Home\Desktop\SeminarCsharp\task22\bin\Debug\net6.0\task22.pdb
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.AssemblyInfo.cs
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.dll
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\refint\task22.dll
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.pdb
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\task22.genruntimeconfig.cache
+C:\Users\Home\Desktop\SeminarCsharp\task22\obj\Debug\net6.0\ref\task22.dll
