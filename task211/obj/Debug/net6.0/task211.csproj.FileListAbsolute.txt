@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\SeminarCsharp\task211\bin\Debug\net6.0\task211.exe
+C:\Users\Home\Desktop\SeminarCsharp\task211\bin\Debug\net6.0\task211.deps.json
+C:\Users\Home\Desktop\SeminarCsharp\task211\bin\Debug\net6.0\task211.runtimeconfig.json
+C:\Users\Home\Desktop\SeminarCsharp\task211\bin\Debug\net6.0\task211.dll
+C:\Users\Home\Desktop\SeminarCsharp\task211\bin\Debug\net6.0\task211.pdb
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.AssemblyInfo.cs
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.dll
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\refint\task211.dll
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.pdb
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\task211.genruntimeconfig.cache
+C:\Users\Home\Desktop\SeminarCsharp\task211\obj\Debug\net6.0\ref\task211.dll
